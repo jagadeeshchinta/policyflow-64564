@@ -1,5 +1,11 @@
 # AI Usage Disclosure
 
+**Candidate:** Jagadeesh Chinta (`chintajagadeesh905@gmail.com`)  
+**Assessment:** TRIPPERS SHIELD (TC.43933.2027.64564 & TC.43933.2027.64696)  
+**Reviewer:** @MasterAdmin2  
+
+---
+
 ## Tools Used
 
 1. **Antigravity IDE (Claude)** — AI coding assistant used for code generation, debugging, and documentation

@@ -2,6 +2,17 @@
 
 **Fault-Tolerant Insurance Issuance & Reconciliation Engine**
 
+| Assessment Submission Details | |
+|---|---|
+| **Candidate Name** | Jagadeesh Chinta |
+| **Candidate Email** | chintajagadeesh905@gmail.com |
+| **Assessment Name** | TRIPPERS SHIELD Practical Assessment |
+| **Test Codes** | TC.43933.2027.64564 & TC.43933.2027.64696 |
+| **Assigned Reviewer** | @MasterAdmin2 |
+| **Submission Deadline** | 23-10-2026 11:59 PM |
+
+---
+
 A Laravel-based API for processing travel insurance policy requests with emphasis on reliability, idempotency, and safe state management.
 
 ## Architecture Overview
